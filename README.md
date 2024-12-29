@@ -27,7 +27,6 @@ Example Screen (macOS)
 1. Clone the repository:
    ```bash
    mkdir cursor-mover
-   cd cursor-mover
    git clone https://github.com/your-repo/cursor-mover.git
    cd cursor-mover
    ```
