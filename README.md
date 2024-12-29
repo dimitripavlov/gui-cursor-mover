@@ -36,9 +36,7 @@ Cursor Mover is a simple GUI application designed to periodically move the curso
 
 1. Clone the repository:
    ```bash
-   mkdir cursor-mover
-   git clone https://github.com/your-repo/cursor-mover.git
-   cd cursor-mover
+   git clone https://github.com/dimitripavlov/gui-cursor-mover.git
    ```
 2. Build and run:
    ```bash
