@@ -94,7 +94,3 @@ Cursor Mover is a simple Rust GUI application designed to periodically move the 
 4. The cursor will move periodically based on the set duration.
 5. Click "Stop" to end the cursor movement.
 
-## License
-
-This project is licensed under the MIT License.
-
