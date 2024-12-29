@@ -10,6 +10,10 @@ Cursor Mover is a simple GUI application designed to periodically move the curso
 - Simple and intuitive GUI.
 - Cross-platform support for macOS and Windows.
 
+Example Screen (macOS)
+
+![Cursor Mover Screenshot](scr_osx.png)
+
 ## Getting Started
 
 ### Prerequisites
