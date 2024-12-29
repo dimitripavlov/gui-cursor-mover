@@ -1,0 +1,22 @@
+[package]
+name = "gui_cursor_mover"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+egui = "0.23"
+eframe = "0.23"
+enigo = "0.0.14"
+rand = "0.8"
+scrap = "0.5.0"
+
+[build]
+rustflags = ["-C", "link-args=-Wl,-rpath,@executable_path/../Frameworks"]
+
+[package.metadata.bundle]
+name = "CursorMoverApp"
+identifier = "com.example.CursorMoverApp"
+icon = ["assets/icon.icns"]
+version = "1.0"
+short_description = "Move the cursor programmatically."
+long_description = """This is a simple program to move the cursor on macOS."""

@@ -9,3 +9,12 @@ eframe = "0.23"
 enigo = "0.0.14"
 rand = "0.8"
 scrap = "0.5.0"
+windows = "0.41"
+winres = "0.1"
+
+[build-dependencies]
+winres = "0.1"
+
+[package.metadata.winres]
+icon = "icon.ico"
+
