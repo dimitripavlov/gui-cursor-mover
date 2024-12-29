@@ -58,8 +58,7 @@ Cursor Mover is a simple Rust GUI application designed to periodically move the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/cursor-mover.git
-   cd cursor-mover
+   git clone https://github.com/dimitripavlov/gui-cursor-mover.git
    ```
 2. Build and run:
    ```bash
