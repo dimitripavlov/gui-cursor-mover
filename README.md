@@ -13,8 +13,15 @@ Cursor Mover is a simple GUI application designed to periodically move the curso
 Example Screen (macOS)
 
 <p align="center">
-  <img src="1scr_osx.png" alt="Initial Screen" width="45%">
-  <img src="2scr_osx.png" alt="Progress Screen" width="45%">
+  <img src="1scr_osx.png" alt="Initial Screen Mac" width="45%">
+  <img src="2scr_osx.png" alt="Progress Screen Mac" width="45%">
+</p>
+
+## Example Screens (Windows)
+
+<p align="center">
+  <img src="1scr_win.png" alt="Initial Screen Windows" width="45%">
+  <img src="2scr_win.png" alt="Progress Screen Windows" width="45%">
 </p>
 
 ## Getting Started
