@@ -1,6 +1,6 @@
 # GUI Cursor Mover
 
-Cursor Mover is a simple GUI application designed to periodically move the cursor on your screen. It is particularly useful for preventing your computer from going idle.
+Cursor Mover is a simple Rust GUI application designed to periodically move the cursor on your screen. It is particularly useful for preventing your computer from going idle.
 
 ## Features
 
