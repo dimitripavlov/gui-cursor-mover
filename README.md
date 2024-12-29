@@ -100,7 +100,3 @@ Cursor Mover is a simple GUI application designed to periodically move the curso
 
 This project is licensed under the MIT License.
 
-## Contributing
-
-Feel free to fork the project and submit pull requests. Contributions are welcome!
-
